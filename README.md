@@ -11,7 +11,7 @@ Desenvolvido como projeto final da disciplina de Desenvolvimento de Aplicações
 
 ---
 
-## Diagramas
+## Diagramas de Casos de Uso
 
 ![Casos de uso](assets/caso_de_uso_livrolog.png)
 
